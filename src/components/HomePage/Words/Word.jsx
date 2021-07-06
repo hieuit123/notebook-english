@@ -16,7 +16,7 @@ export default function Word(props) {
     return (
         <>
 
-            <Grid item xs={12} sm={4} md={3} xl={3}>
+            <Grid item xs={6} sm={4} md={3} xl={3}>
                 <Card className={classes.wordCard}>
                     <CardContent>
                         <Typography variant="h6" component="h2">
